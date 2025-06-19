@@ -1,4 +1,4 @@
-module main
+module github.com/sereschen/grpc-test/go
 
 go 1.24.3
 

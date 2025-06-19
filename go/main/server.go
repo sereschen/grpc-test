@@ -1,10 +1,11 @@
-package greeter
+package main
 
 import (
 	"context"
 	"log"
 	"net"
 
+	"github.com/sereschen/grpc-test/go/greeter" // Adjust the import path as necessary
 	"google.golang.org/grpc"
 )
 
