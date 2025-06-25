@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/sereschen/grpc-test/go/greeter" // Adjust the import path as necessary
+	"github.com/sereschen/grpc-test/go/greeter"
 	"google.golang.org/grpc"
 )
 
